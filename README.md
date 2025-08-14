@@ -4,10 +4,6 @@
 This notebook is part of my AI & ML internship.  
 In this task, I focused on evaluating machine learning models and optimizing their performance through preprocessing, training, and tuning.
 
-## Dataset Used
-- [Specify dataset name here, e.g., Titanic, Iris, etc.]
-- Provide dataset source if available (Kaggle, UCI, etc.)
-
 ## Tools & Libraries
 - Python
 - pandas
